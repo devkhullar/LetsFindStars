@@ -9,7 +9,7 @@ This workshop is divided into two parts:
 2. The second part of the workshop will cover contents on using the `DAOStarFinder` algorithm for point source detection (which could be black holes, neutron stars, Active Galactic Nuclei, Nebulae, you name it!) and then performing aperture photometry on those point sources. 
 
 ## DS9
-You can install DS9 from this (link)[https://sites.google.com/cfa.harvard.edu/saoimageds9].
+You can install DS9 from this [link](https://sites.google.com/cfa.harvard.edu/saoimageds9).
 
 ### for Mac users
 If you are using a mac, please download the Aqua version of DS9.
@@ -32,4 +32,4 @@ cd LetsFindStars
 ```
 
 ## Data Access
-For the purpose this presentation, we are going to look at the data of M66 (NGC 3627), an intermediate star forming galaxy about 10.1 Mpc away from us. You can download the JWST science images from the PHANGS collaboration data access (page)[https://archive.stsci.edu/hlsp/phangs.html#hst_image_products_table]. Even though I am going to work with NGC 3627, you are free to download any images you want (I recommend downloading the JWST science images of IC 5332!).
+For the purpose this presentation, we are going to look at the data of M66 (NGC 3627), an intermediate star forming galaxy about 10.1 Mpc away from us. You can download the JWST science images from the PHANGS collaboration data access [page](https://archive.stsci.edu/hlsp/phangs.html#hst_image_products_table). Even though I am going to work with NGC 3627, you are free to download any images you want (I recommend downloading the JWST science images of IC 5332!).
