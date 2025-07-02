@@ -2,6 +2,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devkhullar/LetsFindStars/HEAD)
+
 # Data Visualization with DS9 + Find Stars with Photutils
 
 This workshop is divided into two parts:
@@ -23,3 +25,10 @@ If you are using a Windows machine, please click the `Windows 64 bit` tab and DS
 ## Photutils
 
 The easiest way to access this code is through google colab. There is a link for google colab provided at the top of the README.md file that you can select to run code out of your computer.
+
+Otherwise, you can also fork this repository by running the following code in your terminal:
+```
+git fork https://github.com/devkhullar/LetsFindStars.git
+git clone https://github.com/devkhullar/LetsFindStars.git 
+cd LetsFindStars
+```
