@@ -15,6 +15,7 @@ You can install DS9 from this [link](https://sites.google.com/cfa.harvard.edu/sa
 If you are using a mac, please download the Aqua version of DS9.
 
 **Note**: You may stumble upon an error something along the lines of 'damaged application'. To counter that, please run the following code in a terminal:
+
 <code>xattr -c /Applications/SAOImageDS9.app </code>
 
 ### for Windows users
