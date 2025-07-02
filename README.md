@@ -2,8 +2,6 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devkhullar/LetsFindStars/HEAD)
-
 # Data Visualization with DS9 + Find Stars with Photutils
 
 This workshop is divided into two parts:
