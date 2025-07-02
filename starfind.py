@@ -39,7 +39,6 @@ def make_aperture_image():
     plt.show()
 
 if __name__ == '__main__':
-    image = fits.getdata('M74.fits')
     plt.imshow(image, vmax=7, origin='lower',
                interpolation='nearest')
     plt.show()
