@@ -30,3 +30,6 @@ git fork https://github.com/devkhullar/LetsFindStars.git
 git clone https://github.com/devkhullar/LetsFindStars.git 
 cd LetsFindStars
 ```
+
+## Data Access
+For the purpose this presentation, we are going to look at the data of M66 (NGC 3627), an intermediate star forming galaxy about 10.1 Mpc away from us. You can download the JWST science images from the PHANGS collaboration data access (page)[https://archive.stsci.edu/hlsp/phangs.html#hst_image_products_table]. Even though I am going to work with NGC 3627, you are free to download any images you want (I recommend downloading the JWST science images of IC 5332!).
