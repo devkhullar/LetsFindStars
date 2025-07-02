@@ -27,7 +27,6 @@ The easiest way to access this code is through google colab. There is a link for
 
 Otherwise, you can also fork this repository by running the following code in your terminal:
 ```
-git fork https://github.com/devkhullar/LetsFindStars.git
 git clone https://github.com/devkhullar/LetsFindStars.git 
 cd LetsFindStars
 ```
