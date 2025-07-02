@@ -1,3 +1,6 @@
+<a target="_blank" href="https://colab.research.google.com/github/devkhullar/LetsFindStars/blob/main/FindStars.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 # Data Visualization with DS9 + Find Stars with Photutils
 
 This workshop is divided into two parts:
