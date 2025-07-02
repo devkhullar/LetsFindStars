@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from astropy.io import fits
 from astropy.modeling.models import Gaussian2D
 from photutils.datasets import make_noise_image
 from photutils.centroids import centroid_quadratic
@@ -37,4 +38,8 @@ def make_aperture_image():
         apertures[i].plot(ax=ax2, color=f'C{i}', lw=1.5)
     plt.show()
 
-make_aperture_image()
+if __name__ == '__main__':
+    image = fits.getdata('M74.fits')
+    plt.imshow(image, vmax=7, origin='lower',
+               interpolation='nearest')
+    plt.show()
